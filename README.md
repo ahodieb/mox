@@ -1,2 +1,2 @@
 # mox
-An exploration in implementing a better generator for interface mocks
+An exploration in implementing a generator for interface mocks
